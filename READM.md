@@ -1,1 +1,1 @@
-This is some Python I write everyday.
+This is some python code that i write everyday.
